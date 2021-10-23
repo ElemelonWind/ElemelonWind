@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Header](https://github.com/ElemelonWind/Elemelonwind/blob/main/readme_header.png?raw=true)
 ### Hi there 👋
-My name is Cindy and I'm a current high school student attending a governor's school with a specialization in Science and Technology. I plan to major in Computer Science, and currently I have a focus in Web Development and Artificial Intelligence. In my free time, I enjoy coding discord bots/Minecraft plugins, playing bedwars, playing piano, and doing musical theater. 
+My name is Cindy and I'm a current high school student attending a governor's school with a specialization in Science and Technology. I plan to major in Computer Science, and currently I have a focus in Web Development and Artificial Intelligence. In my free time, I enjoy coding discord bots/Minecraft plugins, playing bedwars, playing piano, and doing musical theater. <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElemelonWind&theme=radical" />

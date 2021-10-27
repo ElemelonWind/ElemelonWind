@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Header](https://github.com/ElemelonWind/Elemelonwind/blob/main/readme_header.png?raw=true)
 ### Hi there 👋
-<p>My name is Cindy and I'm a current high school student with an interest in science and tech. I plan to major in cs, and currently I have a focus in web dev and ai. In my free time, I enjoy coding discord bots/minecraft plugins, playing bedwars, playing piano, and doing musical theater. This summer, I plan on getting an internship and working on projects in ml, cv, and data science.</p>
+<p>My name is Cindy and I'm a current high school student with an interest in science and tech. I plan to major in cs, and currently I have a focus in web dev and ai. In my free time, I enjoy coding discord bots/minecraft plugins, playing bedwars, playing piano, and doing musical theater. This summer, I plan on getting an internship and working on projects in machine learning, computer vision, and data science.</p>
 
 ### Random Facts!
 <ul>

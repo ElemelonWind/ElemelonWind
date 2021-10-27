@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 - 📚 books: dystopian, fantasy, romance
 - 🎶 music: pop (blackbear, alec benjamin) and rap (nf, neffex)
 
+<!-- ### Skills
+https://shields.io/
+-->
+
 <!-- ### Socials!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ElemelonWind) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/2023cyang/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/.) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/c.yang.2023/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](.) -->
 

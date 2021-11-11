@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://github.com/ElemelonWind/Elemelonwind/blob/main/banner.png?raw=true)
+![Header](https://github.com/ElemelonWind/Elemelonwind/blob/main/rm_banner.png?raw=true)
 ## ElemelonWind
 <p>Just another cs nerd :)</p>
 

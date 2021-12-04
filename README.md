@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ElemelonWind) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/2023cyang/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/.) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/c.yang.2023/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](.) -->
 
 ### Stats :)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElemelonWind&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElemelonWind&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElemelonWind&show_icons=true) <br>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ElemelonWind) <br>
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ElemelonWind) --> 

@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Random Facts!
 - 😄 pronouns: she/her
 - 💖 personality type: infj-t, enneagram 2
-- 📚 books: dystopian, fantasy, romance
+- 📚 books: dystopian, sci-fi
 - 🎶 music: kayden, lauv, boy in space
 
 ### Tech & Tools

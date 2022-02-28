@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 pronouns: she/her
 - 💖 personality type: infj-t, enneagram 2
 - 📚 books: dystopian, sci-fi
-- 🎶 music: kayden, lauv, boy in space
+- 🎶 music: nf, lauv, boy in space
 
 ### Tech & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)

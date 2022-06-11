@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 ### Hi there 👋
 <p>My name is Cindy and I'm a current high school student with an interest in science and tech. In my free time, I enjoy coding web apps, reading, playing piano, and doing musical theater. This summer, I'll be working an internship with an AI search company and conducting research at a university. I also plan on working on projects in machine learning, computer vision, and data science.</p>
 
-### Random Facts!
-- 😄 pronouns: she/her
-- 💖 personality type: infj-t, enneagram 2
-- 📚 books: dystopian, sci-fi
-- 🎶 music: nf, 44phantom, alec benjamin
-
 ### Tech & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Visual+Studio+Code&logoColor=white&color=blue)

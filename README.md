@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>Just another cs nerd :)</p>
 
 ### Hi there 👋
-<p>My name is Cindy and I'm a current high school student with an interest in science and tech. In my free time, I enjoy coding web apps, reading, playing piano, and doing musical theater. This summer, I'll be working an internship with an AI search company and conducting research at a university. I also plan on working on projects in machine learning, computer vision, and data science.</p>
+<p>My name is Cindy and I'm a current high school student with an interest in science and tech. In my free time, I enjoy coding web apps, reading, playing piano, and doing musical theater. This year, I'm taking classes in computer vision and machine learning. I'm also working on a research project involving robotics, cv, physics, modeling, and reinforced learning.</p>
 
 ### Tech & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)

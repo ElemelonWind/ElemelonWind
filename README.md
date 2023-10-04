@@ -45,7 +45,4 @@ Here are some ideas to get you started:
 
 ### Stats :)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElemelonWind&langs_count=10) <br>
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ElemelonWind&show_icons=true) <br>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ElemelonWind) <br>
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ElemelonWind) --> 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/ElemelonWind) --> 

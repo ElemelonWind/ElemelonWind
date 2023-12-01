@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElemelonWind&langs_count=3)
 
 ### Thanks for making it this far. Now I'll force-feed you my music taste
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zmlumqzs79gzmgi3mi73v29v1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zmlumqzs79gzmgi3mi73v29v1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zmlumqzs79gzmgi3mi73v29v1&redirect=true)

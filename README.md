@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### Tech & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual+Studio+Code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU+Bash&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=Git&logoColor=white&color=red)
@@ -46,3 +47,6 @@ Here are some ideas to get you started:
 ### Stats :)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ElemelonWind)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElemelonWind&langs_count=3)
+
+### Thanks for making it this far. Now I'll force-feed you my music taste
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zmlumqzs79gzmgi3mi73v29v1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)

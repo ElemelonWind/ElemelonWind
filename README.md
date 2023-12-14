@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>Just another cs nerd :)</p>
 
 ### Hi there 👋
-<p>My name is Cindy and I'm a current undergraduate student studying robotics, computer science, and physics. I'm currently conducting research under Professor Tom Shwarz, building radiation-tolerant electronics for the ATLAS experiment at the Large Hadron Collider. In my free time, I enjoy coding web apps, reading, playing piano, and working out. This summer, I'll be working as a Software Engineering Intern at Appian. Feel free to reach out, or check out my projects and <a href="https://cwyang.dev">website</a>!</p>
+<p>My name is Cindy and I'm a current undergraduate student studying robotics, computer science, and physics. I'm currently conducting research under Professor Tom Shwarz, building radiation-tolerant electronics for the ATLAS experiment at the Large Hadron Collider. In my free time, I enjoy coding web apps, reading, playing piano, and working out. This summer, I'll be working at Google as part of the STEP internship program. Feel free to reach out, or check out my projects and <a href="https://cwyang.dev">website</a>!</p>
 
 ### Tech & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)

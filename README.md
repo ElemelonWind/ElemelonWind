@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>Just another cs nerd :)</p>
 
 ### Hi there 👋
-<p>My name is Cindy and I'm a current undergraduate student studying robotics, computer science, and physics. I'm currently conducting research under Professor Tom Shwarz, building radiation-tolerant electronics for the ATLAS experiment at the Large Hadron Collider. In my free time, I enjoy coding web apps, reading, playing piano, and working out. This summer, I'll be working at Google as part of the STEP internship program. Feel free to reach out, or check out my projects and <a href="https://cwyang.dev">website</a>!</p>
+<p>My name is Cindy and I'm a current undergraduate student studying robotics, computer science, and electrical engineering. I'm currently conducting research under Professor Tom Shwarz, building radiation-tolerant electronics for the ATLAS experiment at the Large Hadron Collider. I also lead the development of flight systems software for MFly, an aerospace project team that competes in SUAS each year. In my free time, I enjoy reading, playing piano, and working out. After college, I hope to work on embedded systems or software/firmware in the space industry 🚀🪐 Feel free to reach out, or check out my projects and <a href="https://cwyang.dev">website</a>!</p>
 
 ### Tech & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)
@@ -47,6 +47,3 @@ Here are some ideas to get you started:
 ### Stats :)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ElemelonWind)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElemelonWind&langs_count=3)
-
-### Thanks for making it this far. Now I'll force-feed you my music taste
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zmlumqzs79gzmgi3mi73v29v1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zmlumqzs79gzmgi3mi73v29v1&redirect=true)

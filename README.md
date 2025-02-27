@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>Just another cs nerd :)</p>
 
 ### Hi there 👋
-<p>My name is Cindy and I'm a current undergraduate student studying robotics, computer science, and electrical engineering. I'm currently conducting research under Professor Tom Shwarz, building radiation-tolerant electronics for the ATLAS experiment at the Large Hadron Collider. I also lead the development of flight systems software for MFly, an aerospace project team that competes in SUAS each year. In my free time, I enjoy reading, playing piano, and working out. After college, I hope to work on embedded systems or software/firmware in the space industry 🚀🪐 Feel free to reach out, or check out my projects and <a href="https://cwyang.dev">website</a>!</p>
+<p>My name is Cindy and I'm a current undergraduate student studying robotics and computer engineering. I'm currently conducting research under Professor YZ, developing swarm robotics algorithms for the Atombot research team. I also lead the development of flight systems software for MFly, an aerospace project team that competes in SUAS each year. In my free time, I enjoy reading, playing piano, and working out. This summer, I will be working at Google as a SWE intern on the YouTube team. Feel free to reach out, or check out my projects and <a href="https://cwyang.dev">website</a>!</p>
 
 ### Tech & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)
